@@ -28,4 +28,6 @@ $ sudo apt-get install emacs
 |C-x k| Close the current buffer.|
 
 ### if you want to have fun for a while juaga tertis in emacs
-M-x teris 
+M-x tetris 
+
+![2](https://user-images.githubusercontent.com/60374349/77232184-7a8eaf00-6b6d-11ea-9a3f-b0009ef44583.png)
