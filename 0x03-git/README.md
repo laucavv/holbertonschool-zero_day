@@ -17,6 +17,9 @@ Git is a version control system that lets you manage and keep track of your sour
 
 # Install git
 
+```
 $ sudo apt-get update
 $ sudo apt-get upgrade
 $ sudo apt-get install git
+```
+
