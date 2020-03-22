@@ -15,7 +15,7 @@ Git is a version control system that lets you manage and keep track of your sour
 
 [Link](https://blog.devmountain.com/git-vs-github-whats-the-difference/)
 
-# Install git
+# Install git ✔
 
 ```
 $ sudo apt-get update
