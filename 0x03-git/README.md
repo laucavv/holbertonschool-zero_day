@@ -10,3 +10,13 @@
 
 ## What is the difference between Git and GitHub?
 Git is a version control system that lets you manage and keep track of your source code history. GitHub is a cloud-based hosting service that lets you manage Git repositories. If you have open-source projects that use Git, then GitHub is designed to help you better manage them.
+
+![Gitvs Github-1a](https://user-images.githubusercontent.com/60374349/77262192-4c3ecb80-6c62-11ea-89ee-b21b5281f7cc.jpg)
+
+[Link](https://blog.devmountain.com/git-vs-github-whats-the-difference/)
+
+# Install git
+
+$ sudo apt-get update
+$ sudo apt-get upgrade
+$ sudo apt-get install git
